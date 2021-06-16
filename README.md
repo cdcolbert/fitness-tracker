@@ -18,7 +18,7 @@ Open database.
 
 ## Usage Instructions
 
-Navigate to 
+Navigate to https://radiant-wave-75996.herokuapp.com/
 
 ## User Story
 
@@ -26,12 +26,13 @@ Navigate to
 
 ## Screenshots
 <img src="./images/screenshot1.png"></img>
-<img src="./images/screenshot2.png"></img>
 
 ## Contribution Guidelines
 
 
-## Test Instructions
+## Status
+
+Work In Progress
 
 
 ## Questions
